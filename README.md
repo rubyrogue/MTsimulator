@@ -1,5 +1,5 @@
 # MT*
-MT machine simulator with three tapes.
+Turing Machine simulator with three tapes.
 
 Turing machine simulator called MT* with three tapes (X, Y and Z) which the tape X is actually the 
 entry into the machine. The only rewritable tape is the tape X.
